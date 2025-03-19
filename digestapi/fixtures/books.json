@@ -1,0 +1,74 @@
+[
+    {
+        "model": "digestapi.book",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "title": "The Pragmatic Programmer",
+            "author": "Andy Hunt and Dave Thomas",
+            "isbn_number": "9780201616224",
+            "cover_image": "https://example.com/pragmatic_programmer.jpg",
+            "categories": [1, 2]
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 2,
+        "fields": {
+            "user": 2,
+            "title": "Clean Code",
+            "author": "Robert C. Martin",
+            "isbn_number": "9780132350884",
+            "cover_image": "https://example.com/clean_code.jpg",
+            "categories": [3, 4]
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 3,
+        "fields": {
+            "user": 3,
+            "title": "You Don't Know JS: Scope & Closures",
+            "author": "Kyle Simpson",
+            "isbn_number": "9781491904152",
+            "cover_image": "https://example.com/you_dont_know_js.jpg",
+            "categories": [1, 5]
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 4,
+        "fields": {
+            "user": 4,
+            "title": "Python Crash Course",
+            "author": "Eric Matthes",
+            "isbn_number": "9781593276034",
+            "cover_image": "https://example.com/python_crash_course.jpg",
+            "categories": [3, 6]
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 5,
+        "fields": {
+            "user": 5,
+            "title": "Effective Java",
+            "author": "Joshua Bloch",
+            "isbn_number": "9780134685991",
+            "cover_image": "https://example.com/effective_java.jpg",
+            "categories": [4, 7]
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 6,
+        "fields": {
+            "user": 6,
+            "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+            "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+            "isbn_number": "9780201633610",
+            "cover_image": "https://example.com/design_patterns.jpg",
+            "categories": [2, 8]
+        }
+    }
+]
