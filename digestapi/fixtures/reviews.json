@@ -1,0 +1,112 @@
+[
+    {
+        "model": "digestapi.review",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "book": 1,
+            "rating": 5,
+            "comment": "An exceptional read with practical advice for every programmer.",
+            "date": "2025-03-20T10:00:00Z"
+        }
+    },
+    {
+        "model": "digestapi.review",
+        "pk": 2,
+        "fields": {
+            "user": 2,
+            "book": 2,
+            "rating": 4,
+            "comment": "Clean Code offers great insights, though it can feel repetitive at times.",
+            "date": "2025-03-19T14:45:00Z"
+        }
+    },
+    {
+        "model": "digestapi.review",
+        "pk": 3,
+        "fields": {
+            "user": 3,
+            "book": 3,
+            "rating": 5,
+            "comment": "A must-have for JavaScript developers. Kyle Simpson's explanations are gold!",
+            "date": "2025-03-18T08:30:00Z"
+        }
+    },
+    {
+        "model": "digestapi.review",
+        "pk": 4,
+        "fields": {
+            "user": 4,
+            "book": 4,
+            "rating": 3,
+            "comment": "Good for beginners, but lacks depth for experienced Python users.",
+            "date": "2025-03-17T16:20:00Z"
+        }
+    },
+    {
+        "model": "digestapi.review",
+        "pk": 5,
+        "fields": {
+            "user": 5,
+            "book": 5,
+            "rating": 4,
+            "comment": "Effective Java provides valuable insights but is quite dense.",
+            "date": "2025-03-16T21:10:00Z"
+        }
+    },
+    {
+        "model": "digestapi.review",
+        "pk": 6,
+        "fields": {
+            "user": 6,
+            "book": 6,
+            "rating": 5,
+            "comment": "Design Patterns is a timeless classic every developer should read.",
+            "date": "2025-03-15T11:50:00Z"
+        }
+    },
+    {
+        "model": "digestapi.review",
+        "pk": 7,
+        "fields": {
+            "user": 1,
+            "book": 2,
+            "rating": 3,
+            "comment": "Insightful, but could use more practical examples.",
+            "date": "2025-03-14T13:15:00Z"
+        }
+    },
+    {
+        "model": "digestapi.review",
+        "pk": 8,
+        "fields": {
+            "user": 2,
+            "book": 3,
+            "rating": 4,
+            "comment": "A great resource for mastering JavaScript scope and closures.",
+            "date": "2025-03-13T09:05:00Z"
+        }
+    },
+    {
+        "model": "digestapi.review",
+        "pk": 9,
+        "fields": {
+            "user": 3,
+            "book": 4,
+            "rating": 5,
+            "comment": "Super helpful for Python learners! Highly recommended.",
+            "date": "2025-03-12T18:45:00Z"
+        }
+    },
+    {
+        "model": "digestapi.review",
+        "pk": 10,
+        "fields": {
+            "user": 4,
+            "book": 1,
+            "rating": 4,
+            "comment": "A solid resource for software professionals.",
+            "date": "2025-03-11T10:25:00Z"
+        }
+    }
+]
