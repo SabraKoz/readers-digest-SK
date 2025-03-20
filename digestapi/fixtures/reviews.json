@@ -7,7 +7,7 @@
             "book": 1,
             "rating": 5,
             "comment": "An exceptional read with practical advice for every programmer.",
-            "date": "2025-03-20T10:00:00Z"
+            "date_posted": "2025-03-20T10:00:00Z"
         }
     },
     {
@@ -18,7 +18,7 @@
             "book": 2,
             "rating": 4,
             "comment": "Clean Code offers great insights, though it can feel repetitive at times.",
-            "date": "2025-03-19T14:45:00Z"
+            "date_posted": "2025-03-19T14:45:00Z"
         }
     },
     {
@@ -29,7 +29,7 @@
             "book": 3,
             "rating": 5,
             "comment": "A must-have for JavaScript developers. Kyle Simpson's explanations are gold!",
-            "date": "2025-03-18T08:30:00Z"
+            "date_posted": "2025-03-18T08:30:00Z"
         }
     },
     {
@@ -40,7 +40,7 @@
             "book": 4,
             "rating": 3,
             "comment": "Good for beginners, but lacks depth for experienced Python users.",
-            "date": "2025-03-17T16:20:00Z"
+            "date_posted": "2025-03-17T16:20:00Z"
         }
     },
     {
@@ -51,7 +51,7 @@
             "book": 5,
             "rating": 4,
             "comment": "Effective Java provides valuable insights but is quite dense.",
-            "date": "2025-03-16T21:10:00Z"
+            "date_posted": "2025-03-16T21:10:00Z"
         }
     },
     {
@@ -62,7 +62,7 @@
             "book": 6,
             "rating": 5,
             "comment": "Design Patterns is a timeless classic every developer should read.",
-            "date": "2025-03-15T11:50:00Z"
+            "date_posted": "2025-03-15T11:50:00Z"
         }
     },
     {
@@ -73,7 +73,7 @@
             "book": 2,
             "rating": 3,
             "comment": "Insightful, but could use more practical examples.",
-            "date": "2025-03-14T13:15:00Z"
+            "date_posted": "2025-03-14T13:15:00Z"
         }
     },
     {
@@ -84,7 +84,7 @@
             "book": 3,
             "rating": 4,
             "comment": "A great resource for mastering JavaScript scope and closures.",
-            "date": "2025-03-13T09:05:00Z"
+            "date_posted": "2025-03-13T09:05:00Z"
         }
     },
     {
@@ -95,7 +95,7 @@
             "book": 4,
             "rating": 5,
             "comment": "Super helpful for Python learners! Highly recommended.",
-            "date": "2025-03-12T18:45:00Z"
+            "date_posted": "2025-03-12T18:45:00Z"
         }
     },
     {
@@ -106,7 +106,7 @@
             "book": 1,
             "rating": 4,
             "comment": "A solid resource for software professionals.",
-            "date": "2025-03-11T10:25:00Z"
+            "date_posted": "2025-03-11T10:25:00Z"
         }
     }
 ]

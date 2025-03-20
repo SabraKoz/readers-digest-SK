@@ -32,17 +32,17 @@ class ReviewViewSet(viewsets.ViewSet):
         # values from the request payload using `request.data`
         rating = request.data.get('rating')
         comment = request.data.get('comment')
-        book_id = request.data.get('book')
+        book = request.data.get('book')
+
+        book_instance = Book.objects.get(pk=book)
+        review = Review.objects.create(
+            user=request.user,
+            book=book_instance,
+            rating=rating,
+            comment=comment,
+        )
 
         try:
-            book = Book.objects.get(pk=book_id)
-            review = Review.objects.create(
-                user=request.user,
-                book=book,
-                rating=rating,
-                comment=comment,
-            )
-
         # Save the review
 
             # Serialize the objects, and pass request as context
